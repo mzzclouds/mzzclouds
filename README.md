@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mzzclouds, former WP wizard turned web developer.
+- 👋 Hi, I’m @mzzclouds, WP wizard turned web developer.
 - Currently spending my free time learning JavaScript.
 
 <!---
